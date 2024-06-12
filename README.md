@@ -1,5 +1,5 @@
 # [Prasad]'s Portfolio
-[Visit My Portfolio]([https://stories.pythonanywhere.com/](https://prasaddshelke.netlify.app/))
+[Visit My Portfolio](https://prasaddshelke.netlify.app/)
 
 ![Portfolio Preview](Images/portfolioImg.png)
 
