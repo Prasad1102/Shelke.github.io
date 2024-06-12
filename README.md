@@ -1,4 +1,4 @@
-# [Prasad]'s Portfolio
+# Prasad's Portfolio
 [Visit My Portfolio](https://prasaddshelke.netlify.app/)
 
 ![Portfolio Preview](Images/portfolioImg.png)
