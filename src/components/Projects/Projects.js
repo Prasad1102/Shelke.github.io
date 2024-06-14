@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import FoodOrder from "../../Assets/Projects/FoodOrder.png";
+import Elernning from "../../Assets/Projects/Elernning.png";
 import Stories from "../../Assets/Projects/Stories.png";
 
 function Projects() {
@@ -36,6 +37,17 @@ function Projects() {
               description="My Food Ordering System is a comprehensive platform built with Python and Django. It features user authentication, allowing users to create accounts, log in, and manage their profiles. Users can browse various food items, add them to their cart, place orders, and view their order history. The system also includes an admin interface where administrators can add new recipes and manage the menu. This user-friendly platform ensures a seamless and efficient food ordering experience for both customers and administrators.
 "
               ghLink="https://github.com/Prasad1102/FoodOrderSystem"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Elernning}
+              isBlog={false}
+              title="TestEagles"
+              description="TestEagles is a user-friendly e-learning platform developed with Python, Django, HTML, CSS, and Bootstrap. It features secure user authentication, allowing users to create accounts and manage profiles. Users can browse educational posts and track their learning progress. Administrators have access to an admin panel to create and update posts, ensuring fresh and relevant content. TestEagles offers a seamless learning experience for both students and educators.
+"
+              ghLink="https://github.com/Prasad1102/TestEagles"
             />
           </Col>
         </Row>
