@@ -1,5 +1,7 @@
 # Prasad's Portfolio
-[Visit My Portfolio](https://prasaddshelke.netlify.app/)
+<h3 align="center"><b>Visit My Portfolio</b></h3>
+
+<p align="center"><a href="https://prasaddshelke.netlify.app/">prasaddshelke.com</a></p>
 
 ![Portfolio Preview](Images/portfolioImg.png)
 
