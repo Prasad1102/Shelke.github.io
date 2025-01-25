@@ -19,9 +19,7 @@ function AboutCard() {
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
+            
             <li className="about-activity">
               <ImPointRight /> Creating Tech Projects
             </li>
@@ -29,7 +27,10 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Trecking
+              <ImPointRight /> Trekking
+            </li>
+              <li className="about-activity">
+              <ImPointRight /> Playing Games
             </li>
           </ul>
 
